@@ -1,3 +1,6 @@
 <?php
+    echo"TEST";
+    
+    
     phpinfo();
 ?>
