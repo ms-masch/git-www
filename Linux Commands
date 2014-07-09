@@ -1,4 +1,7 @@
 Useful Linux commands
 
 # Find Folder
-find / -xdev 2>/dev/null -name "exampledocs" 
+find / -xdev 2>/dev/null -name "exampledocs"
+
+# restart tomcat7
+sudo service tomcat7 restart
