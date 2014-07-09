@@ -5,3 +5,7 @@ find / -xdev 2>/dev/null -name "exampledocs"
 
 # restart tomcat7
 sudo service tomcat7 restart
+
+# change Owner & Permission
+sudo chown -R USER FOLDER
+sudo chmod -R 755 logs
