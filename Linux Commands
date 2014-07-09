@@ -1,0 +1,4 @@
+Useful Linux commands
+
+# Find Folder
+find / -xdev 2>/dev/null -name "exampledocs" 
