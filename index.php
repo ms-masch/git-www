@@ -1,19 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Beispiel HTML5 Forms</title>
+    <title>HTML5 Example</title>
     <meta charset="UTF-8" />
-    <meta name="description" content="Kurzbeschreibung" />
-    <link href="style.css" type="text/css" rel="stylesheet" />
+    <meta name="description" content="Test HTML Body" />
 </head>
     
 <body>
     <p>Absatz</p>
-<?php
-    echo"TEST";
-    
-    
-    phpinfo();
-?>
 </body>
 </html>
