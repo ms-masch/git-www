@@ -7,8 +7,8 @@
 function my_delete() {
     var a = 10;
         b = 20;
-        //delete a;
-       // delete b;
+        delete a;
+        delete b;
         alert(a);
         alert(b);
 }
