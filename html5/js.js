@@ -20,5 +20,9 @@ function my_type() {
     
     a = 1;
     b = '2';
-    alert (a + Number(b));
+    alert (a + Number(b
+    
+    var num = '10';
+    alert (num + 5); // Ergibt 105
+    alert (num * 5); // Ergibt 50
 }
