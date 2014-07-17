@@ -13,7 +13,7 @@ function my_delete() {
         alert(b);
 }
 
-function my_typ() {
+function my_type() {
     a = 1;
     b = '2';
     alert (a + b);
