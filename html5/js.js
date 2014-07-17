@@ -26,3 +26,8 @@ function my_type() {
     alert (num + 5); // Ergibt 105
     alert (num * 5); // Ergibt 50
 }
+
+function my_typeof() {
+    blubb = 'blubber';
+    alert(typeof(blubb));
+}
